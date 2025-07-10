@@ -1,0 +1,296 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 26100.4349; Version 2009; 64bit' Language: 'en' Physical Memory: 16213 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Games/Baldi's Basics/Baldi's Basics Decompiles/BBCR Modified Source
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52668
+Successfully changed project path to: D:/Games/Baldi's Basics/Baldi's Basics Decompiles/BBCR Modified Source
+D:/Games/Baldi's Basics/Baldi's Basics Decompiles/BBCR Modified Source
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Games/Baldi's Basics/Baldi's Basics Decompiles/BBCR Modified Source/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:   
+    VRAM:     7957 MB
+    Driver:   32.0.15.7688
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56688
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001058 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 19.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.532 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.556 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1479 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1925.
+Total: 2.015500 ms (FindLiveObjects: 0.225300 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.717800 ms  DeleteObjects: 0.024900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Textures/Miscellaneous/GameIcon.png
+  artifactKey: Guid(c95357becae9e284d9b5519cc4f6bf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Miscellaneous/GameIcon.png using Guid(c95357becae9e284d9b5519cc4f6bf0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df0507480898321cb09373f53a73047') in 0.061717 seconds 
+  Import took 0.063735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/PrefabInstance/MiniGames/MathGame.prefab
+  artifactKey: Guid(48a85643c04487f45bd9aa78cf0fef52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/MiniGames/MathGame.prefab using Guid(48a85643c04487f45bd9aa78cf0fef52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a520300e111a3cd7869de9fb6b7d69') in 0.053895 seconds 
+  Import took 0.055801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.395519 seconds.
+  path: Assets/Scripts/Miscellaneous/Game/GameControllerScript.cs
+  artifactKey: Guid(28fa0f0ef0a850d40a3c102e4689cb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Miscellaneous/Game/GameControllerScript.cs using Guid(28fa0f0ef0a850d40a3c102e4689cb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8008a3d50b3c5855d4db0919141198') in 0.017288 seconds 
+  Import took 0.018933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012503 seconds.
+  path: Assets/Scripts/Miscellaneous/Game/GameControllerScript.cs
+  artifactKey: Guid(28fa0f0ef0a850d40a3c102e4689cb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Miscellaneous/Game/GameControllerScript.cs using Guid(28fa0f0ef0a850d40a3c102e4689cb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8008a3d50b3c5855d4db0919141198') in 0.001469 seconds 
+  Import took 0.003022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.900413 seconds.
+  path: Assets/AudioClips/Music/mus_School.wav
+  artifactKey: Guid(fcc3c9e139cabaf40bf1dc0712b91427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AudioClips/Music/mus_School.wav using Guid(fcc3c9e139cabaf40bf1dc0712b91427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7573d6dc912b805f7a19ce7818f84c49') in 0.035605 seconds 
+  Import took 0.037655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Posters/SchoolAttention.png
+  artifactKey: Guid(176651f507fd7e747be36eb98b75c06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Posters/SchoolAttention.png using Guid(176651f507fd7e747be36eb98b75c06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309a6d2a1ac0de4b207834d0fc58bc5a') in 0.010167 seconds 
+  Import took 0.011811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Posters/SchoolRulesPoster.png
+  artifactKey: Guid(5d3c091a019f55240a511596f5920ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Posters/SchoolRulesPoster.png using Guid(5d3c091a019f55240a511596f5920ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95450a5759b3d3f5b20cd21b6e4dff4f') in 0.009471 seconds 
+  Import took 0.011093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Materials/WallMaterials/Posters/SchoolAttention.mat
+  artifactKey: Guid(0b0ab498611a4a6468c0775598e303c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallMaterials/Posters/SchoolAttention.mat using Guid(0b0ab498611a4a6468c0775598e303c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd95be3f9b0a5b7660923ea3dfa9ed5b') in 0.057316 seconds 
+  Import took 0.058956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Materials/WallMaterials/Posters/SchoolRulesPoster.mat
+  artifactKey: Guid(be61bdffd85a6674f924d4e10d502d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallMaterials/Posters/SchoolRulesPoster.mat using Guid(be61bdffd85a6674f924d4e10d502d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b20804b925f3f30b12cec52ab738958') in 0.009394 seconds 
+  Import took 0.011086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.092839 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures
+  artifactKey: Guid(7e020fdd81b825545881885e7e194100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures using Guid(7e020fdd81b825545881885e7e194100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6279185420bc0e40d95753160c720e') in 0.008267 seconds 
+  Import took 0.009970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050180 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/WallFade.png
+  artifactKey: Guid(b8b1d8800c86da544bcda30a0b1cb68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/WallFade.png using Guid(b8b1d8800c86da544bcda30a0b1cb68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5792beca6094cb223556de2defe841f') in 0.008210 seconds 
+  Import took 0.009871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Window.png
+  artifactKey: Guid(d4ab78830fad22047b45dd94b71162c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Window.png using Guid(d4ab78830fad22047b45dd94b71162c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704b2035af161f17506057021687a398') in 0.009642 seconds 
+  Import took 0.011306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/WhiteBrickWall.png
+  artifactKey: Guid(7bdbd3459685c3040866b62695072db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/WhiteBrickWall.png using Guid(7bdbd3459685c3040866b62695072db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee723e7b500ba73535bcc763be492f7a') in 0.007847 seconds 
+  Import took 0.009513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.453715 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Posters
+  artifactKey: Guid(0cd66d85e0a8d9443a5acfffe92246a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Posters using Guid(0cd66d85e0a8d9443a5acfffe92246a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83970dd6928003ed49ff2fa2265a5666') in 0.006365 seconds 
+  Import took 0.008078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.318679 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards
+  artifactKey: Guid(02fb6652824598c4dae2e58287f68239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards using Guid(02fb6652824598c4dae2e58287f68239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b29c8353d1cfed6f2f51da0e210d37') in 0.007932 seconds 
+  Import took 0.009581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043539 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/baldiSays.png
+  artifactKey: Guid(57da5105a0d36314ea0c603610b8ed7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/baldiSays.png using Guid(57da5105a0d36314ea0c603610b8ed7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27b9d7bf85691968ebf150d5ec4465c') in 0.007627 seconds 
+  Import took 0.009278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Hangman.png
+  artifactKey: Guid(a14f0240aee1d3e40b39e8a7270f00b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Hangman.png using Guid(a14f0240aee1d3e40b39e8a7270f00b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f0f8bb661e13b860fb46838f0a17a8') in 0.007735 seconds 
+  Import took 0.009339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/BaldisBlackboard.png
+  artifactKey: Guid(8243a550decb4944cb9d6a596ab32324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/BaldisBlackboard.png using Guid(8243a550decb4944cb9d6a596ab32324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f56ca0042ceecddcb8b04febd7dce36') in 0.009247 seconds 
+  Import took 0.010918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/g.png
+  artifactKey: Guid(387adc30a00a8ba4aa5303943fd35cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/g.png using Guid(387adc30a00a8ba4aa5303943fd35cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de880e7aa084d23ec7a450aa214e679e') in 0.008312 seconds 
+  Import took 0.009928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Math.png
+  artifactKey: Guid(c348e828a7b04e440a90a138783d0fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Math.png using Guid(c348e828a7b04e440a90a138783d0fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f26188bb18d550ef0bdedc49192d04') in 0.009603 seconds 
+  Import took 0.011249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/QUIT.png
+  artifactKey: Guid(1bb07605b8664054ca14085e843e51cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/QUIT.png using Guid(1bb07605b8664054ca14085e843e51cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c120f53b8a78c924b884705f455f3209') in 0.008550 seconds 
+  Import took 0.010213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/wow.png
+  artifactKey: Guid(634a72e4c413bbb4dbb63b527a689042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/wow.png using Guid(634a72e4c413bbb4dbb63b527a689042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe0adf5d5e2dc7e807af2573e27a4b7') in 0.009535 seconds 
+  Import took 0.011196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Cheese.png
+  artifactKey: Guid(7b62843b988ab7e47beb2f6ba448c12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Cheese.png using Guid(7b62843b988ab7e47beb2f6ba448c12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc557df81575bd9b859dc6109ebd555e') in 0.009511 seconds 
+  Import took 0.011175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/world.png
+  artifactKey: Guid(34e1466c9e516f642968b75212fa7388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/world.png using Guid(34e1466c9e516f642968b75212fa7388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee8b5aca5a964bbfbf4cc439b31b4251') in 0.009514 seconds 
+  Import took 0.011125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Lore.png
+  artifactKey: Guid(049923d497dc80240afd305806665203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Lore.png using Guid(049923d497dc80240afd305806665203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd003f7f4df019dccdc933eff75e1c4b4') in 0.008759 seconds 
+  Import took 0.010405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003363 seconds.
+  path: Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Lore.png
+  artifactKey: Guid(049923d497dc80240afd305806665203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SchoolHouse/WallTextures/Chalkboards/Lore.png using Guid(049923d497dc80240afd305806665203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd003f7f4df019dccdc933eff75e1c4b4') in 0.003607 seconds 
+  Import took 0.005235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.847193 seconds.
+  path: Assets/Scenes/GameArea.unity
+  artifactKey: Guid(02778db063e5ee846980944a550e48a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameArea.unity using Guid(02778db063e5ee846980944a550e48a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1eba64c2dd68a9a5c83668456070c2a') in 0.006624 seconds 
+  Import took 0.008230 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
