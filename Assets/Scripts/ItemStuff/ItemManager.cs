@@ -365,8 +365,8 @@ public class ItemManager : MonoBehaviour
     private KeyCode[] KeyIndex = { KeyCode.Alpha1, KeyCode.Alpha2, KeyCode.Alpha3, KeyCode.Alpha4, KeyCode.Alpha5, KeyCode.Alpha6, KeyCode.Alpha7, KeyCode.Alpha8, KeyCode.Alpha9, KeyCode.Alpha0 };
 
     [Header("UI References")]
-    [SerializeField] private List<RawImage> ItemImages = new List<RawImage>();
-    [SerializeField] private List<Image> ItemImageBGs = new List<Image>();
+    [SerializeField] public List<RawImage> ItemImages = new List<RawImage>();
+    [SerializeField] public List<Image> ItemImageBGs = new List<Image>();
     [SerializeField] private TextMeshProUGUI ItemNameText;
     [SerializeField] private Color SelectionColor = Color.red;
     public static ItemManager Instance;

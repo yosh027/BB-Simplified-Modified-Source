@@ -395,7 +395,7 @@ public class PlayerScript : MonoBehaviour
 
 	[Header("Private Variables")]
 	[SerializeField] private Vector3 frozenPosition;
-	[SerializeField] private float mouseSensitivity, gravity;
+	[SerializeField] public float mouseSensitivity, gravity;
 	public float guilt;
 	#endregion
 
