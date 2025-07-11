@@ -21,6 +21,9 @@ public class PlayerScript : MonoBehaviour
 		if (!movementLocked) PlayerMove();
 		GuiltCheck();
 		InitializeMiscellaneous();
+		Camera.main.fieldOfView = Mathf.Lerp(Camera.main.fieldOfView,
+        cc.velocity.magnitude < 16 ? cc.velocity.magnitude * 60f / 16f : 60f, 
+    	Time.deltaTime);
 	}
 	#endregion
 
